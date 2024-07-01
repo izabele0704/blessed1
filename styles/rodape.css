@@ -1,0 +1,15 @@
+.hr {
+    margin: 0;
+}
+
+.rodape {
+    background-color: var(--cor-de-fundo);
+    padding: 2em;
+}
+
+.rodape__titulo {
+    text-align: center;
+    font-weight: 700;
+    color: var(--branco);
+    font-size: 20px;
+}
